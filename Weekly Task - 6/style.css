@@ -1,0 +1,115 @@
+.nav-item a{
+    color: black;
+    cursor: pointer;
+}
+.navbar-nav {
+    margin-left: 10%;
+}
+#s1{
+    margin-left: 13%;
+    width: 500px;
+}
+#t2{
+    margin-left: 20px;
+}
+#t3{
+    margin-left: -10px;
+}
+#r1{
+    background-image: url(/img/12.jpg);
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+#h1 ul:hover{
+    text-decoration: underline;
+    color: #F75D34;
+    cursor: pointer;
+}
+.carousel-control-prev{
+    color: #F75D34;
+}
+.carousel-control-prev-icon{
+    color: #F75D34; 
+}
+#i1 img{
+    height: 200px;
+}
+.card p{
+    font-weight: bolder;
+}
+.card-body a{
+    text-decoration: none;
+    color: #F75D34;
+    
+}
+.card-body i{
+    background-color: #F75D34;
+    color: white;
+    height: 20px;
+    width: 20px;
+    border-radius: 100px;
+    padding-left: 5px;
+    padding-top: 4px;
+    font-size: small;
+}
+#c1{
+    background-image: url(/img/401\ \(5\).jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+#c2{
+    background-image: url(/img/401\ \(1\).jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+#c3{
+    background-image: url(/img/401\ \(6\).jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+#c4{
+    background-image: url(/img/401\ \(7\).jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+#c5{
+    background-image: url(/img/401\ \(8\).jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+#c6{
+    background-image: url(/img/401\ \(9\).jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+#c7{
+    background-image: url(/img/401\ \(10\).jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+#c8{
+    background-image: url(/img/401\ \(2\).jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+#c9{
+    background-image: url(/img/401\ \(3\).jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+#c10{
+    background-image: url(/img/401\ \(4\).jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}

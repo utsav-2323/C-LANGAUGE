@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#mi{
+    /* background: url("https://images.ctfassets.net/pmzhtobns06n/1nmD1TekZUVL2sBRlHf2sw/92aa5ff9e1454a38305edc77f92168d2/WWH-296x222-2x-Desktop.png?fm=webp&q=80"); */
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#p1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#p1 p{
+    text-align: center;
+}
+.p4{
+    background: url(4.png);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.p6{
+    background: url("13.webp");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 540px;
+   
+}

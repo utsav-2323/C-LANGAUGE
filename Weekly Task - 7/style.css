@@ -1,0 +1,132 @@
+#s1{
+   background-image: url(/img/1.jpeg);
+   height: 700px;
+   background-position: center;
+   background-size: cover;
+   position: relative;
+/* top: -76px; */
+}
+#ss1{
+   position: absolute;
+   top: 0px;
+   z-index: 1;
+ }
+ .nav-item a{
+   color: white;
+   cursor: pointer;
+ }
+ .navbar-nav{
+   margin-left: 2%;
+ }
+ .nav-item{
+   margin-left: 20px;
+ }
+ .nav-item a::before{
+   content: " ";
+   height: 2px;
+   width: 0px;
+   position: relative;
+   top: 40px;
+   left: 50%;
+   right: 50%;
+   transition: 1s;
+   color: black;
+   background-color: #F3D280;
+   z-index: 1;
+   margin: 0;
+   display: block;
+ }
+ .nav-item a:hover::before{
+   width: 100%;
+   left: 0;
+   right: 0;
+}
+.nav-item a:hover{
+   color: #F3D280;
+}
+#b1{
+   border: 1px solid; 
+   height: 50px;
+   width: 50px;
+   border-radius: 100px;
+   font-size: 30px;
+   background-color: #4B0983;
+   color: #F3D280;
+   margin-top: 50px;
+}
+#b2{
+   border: 1px solid; 
+   height: 50px;
+   width: 50px;
+   border-radius: 100px;
+   font-size: 30px;
+   background-color: #4B0983;
+   color: #F3D280;
+
+}
+#h1 img{
+   height: 100%;
+   width: 100%;
+   transform: 0.2s ease;
+}
+#h1 img:hover{
+   transform: scale(1.02);
+}
+#m1{
+   background-image: url(/img/114.webp);
+   height: 1500px;
+   background-position: center;
+   background-size: cover;
+
+}
+#v1{
+   background-image: url(/img/115.webp);
+   height: 550px;
+   background-position: center;
+   background-size: cover;
+}
+#v2{
+   background-image: url(/img/121\ \(3\).webp);
+   height: 600px;
+   background-position: center;
+   background-size: cover;
+   position: relative;
+   top: 100px;
+}
+#v3{
+   background-image: url(/img/121\ \(1\).webp);
+   height: 600px;
+   background-position: center;
+   background-size: cover;
+   position: relative;
+   top: 100px;
+}
+#v4{
+   background-image: url(/img/121\ \(2\).webp);
+   height: 600px;
+   background-position: center;
+   background-size: cover;
+   position: relative;
+   top: 100px;
+}
+#h2{
+   background-image: url(/img/15.jpg);
+   height: 300px;
+   background-position: center;
+   background-size: cover;
+}
+#n1 img{
+   height: 100%;
+   width: 100%;
+   transform: 0.2s ease;
+}
+#n1 img:hover{
+   transform: scale(1.02);
+}
+#h1:hover{
+   text-decoration: underline;
+   cursor: pointer;
+}
+#h1{
+   font-weight: bolder;
+}
